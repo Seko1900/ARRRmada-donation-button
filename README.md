@@ -1,5 +1,7 @@
 # ARRRmada donation button
 
+<img src="https://raw.githubusercontent.com/Seko1900/ARRRmada-donation-button/master/arrrmada.jpg">
+
 Fork of <a href="https://github.com/dogracer" target="_blank">Dogracer's</a> $ARRR Donation Button. 
 Customize any HTML element into a Pirate ARRR donation widget!
 <hr>
