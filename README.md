@@ -27,5 +27,7 @@ Step 3 - Profit! from sweet Pirate ARRR rewards from more generous Pirates!
 Dependencies:
 * jQuery: https://code.jquery.com/jquery-3.6.0.min.js (tested with v3.6.0)
 * jQuery-qrcode: https://larsjung.de/jquery-qrcode/ (tested with v0.18.0)
- 
+
+<hr>
+  
 <h3>ARRR accepted</h3>
