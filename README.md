@@ -35,4 +35,4 @@ Dependencies:
 <h3>ARRR accepted!!!</h3>
   
 If you would like to support the ARRRmada with a donation, you can find our ARRRddress here:
-<strong>zs1wj79fpuaf2sduum2gxkmxnhfnjrljzw756c77q8ym8syq0t2t9h52d4h7vf4n8868qejwacyl5a</strong>
+<strong>zs19dl8xcd3n3qft9te4t36rjlum6vgetdq65va7et92fcfa8pm3pukrws4xm6c0k030t096ea0ax2</strong>
