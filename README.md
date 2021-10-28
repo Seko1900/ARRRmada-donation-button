@@ -5,7 +5,7 @@
 Fork of <a href="https://github.com/dogracer" target="_blank">Dogracer's</a> $ARRR Donation Button. 
 Customize any HTML element into a Pirate ARRR donation widget!
 
-<ahref="https://seko1900.github.io/ARRRmada-donation-button/" target="_blank">Check demo</a>
+<a href="https://seko1900.github.io/ARRRmada-donation-button/" target="_blank">Check demo</a>
 <hr>
 <strong>Pirate Chain is a blockchain that is secure and anonymous. Secure against 51% attacks thanks to dPoW (delayed proof of work) and privacy by default. Pirate Chain is supported by the ARRRmada fleet. The platform for the acceptance of ARRR.</strong>
 <h3>https://pirate.black</h3>
