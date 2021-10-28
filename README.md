@@ -1,4 +1,4 @@
-# ARRRmada donation button
+# ARRRmada QR donation button
 
 <img src="https://raw.githubusercontent.com/Seko1900/ARRRmada-donation-button/master/arrrmada.jpg">
 
